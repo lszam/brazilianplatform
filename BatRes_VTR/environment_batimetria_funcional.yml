@@ -1,0 +1,17 @@
+name: batimetria
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - scipy
+  - matplotlib
+  - pandas
+  - xarray
+  - netCDF4
+  - rasterio
+  - rioxarray
+  - pyproj
+  - tqdm
+  - psutil
+  - cmcrameri

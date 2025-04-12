@@ -1,0 +1,12 @@
+numpy==1.26
+scipy
+matplotlib
+pandas
+xarray
+netCDF4
+rasterio
+rioxarray
+pyproj
+tqdm
+psutil
+cmcrameri
